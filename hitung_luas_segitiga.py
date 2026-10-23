@@ -1,4 +1,3 @@
-alas=8
-tinggi=4
-luas=1/2*(alas*tinggi)
-print("luas segitiga adalah : {}".format(luas))
+r=7
+luas=3.14 * (r * r)
+print("luas lingkaran adalah : {}".format(luas))
